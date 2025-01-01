@@ -15,7 +15,7 @@ El proyecto sigue las fases del modelo **KDD**:
 1. **Dominio del problema**: Estudio de las reglas del Blackjack y contexto de juego en casinos.  
 2. **Selección de datos**: Uso de datasets específicos de partidas históricas de Blackjack disponibles en Kaggle.  
 3. **Limpieza y transformación**: Procesamiento de los datos para eliminar inconsistencias y preparar el dataset para el análisis.  
-4. **Minería de datos**: Identificación de patrones relevantes en el comportamiento de jugadores y distribución de cartas.  
+4. **Minería de datos**: Identificación de patrones relevantes en el comportamiento de jugadores y distribución de cartas, en este caso se utilizaron las redes neuronales para crear un modelo que pudiera aprender patrones en los datos y realizar predicciones.  
 5. **Evaluación e interpretación**: Generación de resultados y conclusiones.
 
 ## Requisitos  
