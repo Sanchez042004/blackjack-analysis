@@ -31,6 +31,23 @@ El proyecto sigue las fases del modelo **KDD**:
   - [50 Million Blackjack Hands](https://www.kaggle.com/datasets/dennisho/blackjack-hands).
 
 ## Resultados Esperados  
-- Gráficos y visualizaciones que describan tendencias y patrones.  
-- Conclusiones estratégicas basadas en los datos analizados.  
-- Recomendaciones para optimizar las decisiones en el juego.  
+
+- **Gráficos y visualizaciones que describan tendencias y patrones.**  
+  A continuación se muestran algunas de las gráficas que ilustran las tendencias y patrones descubiertos durante el análisis del juego de Blackjack.
+
+  ![Gráfico 1: Distribución de cartas en las manos de los jugadores](capturas/Grafica 1.jpg)  
+  *Figura 1: Distribución de las cartas en las manos de los jugadores.*
+
+  ![Gráfico 2: Comparación entre manos ganadoras y perdedoras](ruta/a/tu/imagen2.png)  
+  *Figura 2: Comparación entre las manos ganadoras y las perdedoras durante el juego.*
+
+  ![Gráfico 3: Análisis de decisiones en manos críticas](ruta/a/tu/imagen3.png)  
+  *Figura 3: Análisis de decisiones tomadas en manos críticas (valor de 16 contra 10 del crupier).*
+
+- **Conclusiones estratégicas basadas en los datos analizados.**  
+  Basado en los análisis anteriores, se han derivado las siguientes conclusiones estratégicas:  
+  - Los jugadores deben evitar apostar en manos de bajo valor y centrarse en maximizar sus apuestas en manos fuertes.  
+  - El conteo de cartas es una estrategia viable para optimizar las decisiones.
+
+- **Recomendaciones para optimizar las decisiones en el juego.**  
+  Se recomienda a los jugadores ajustar sus estrategias según las cartas del crupier, particularmente en los escenarios mostrados en las gráficas.
