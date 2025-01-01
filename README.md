@@ -30,9 +30,9 @@ El proyecto sigue las fases del modelo **KDD**:
   - [900.000 Hands of BlackJack Results](https://www.kaggle.com/datasets/mojocolors/900000-hands-of-blackjack-results).
   - [50 Million Blackjack Hands](https://www.kaggle.com/datasets/dennisho/blackjack-hands).
 
-## Resultados Esperados  
+## Resultados
 
-- **Gráficos y visualizaciones que describan tendencias y patrones.**  
+- **Gráficos y visualizaciones.**  
   A continuación se muestran algunas de las gráficas que ilustran las tendencias y patrones descubiertos durante el análisis del juego de Blackjack.
   
   <img src="Capturas/Grafica1.jpg" alt="Gráfico 1: Resultados blackjack" width="500"/>
