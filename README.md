@@ -35,15 +35,15 @@ El proyecto sigue las fases del modelo **KDD**:
 - **Gráficos y visualizaciones que describan tendencias y patrones.**  
   A continuación se muestran algunas de las gráficas que ilustran las tendencias y patrones descubiertos durante el análisis del juego de Blackjack.
   
-  <img src="Capturas/Grafica1.jpg" alt="Gráfico 1: Distribución de cartas en las manos de los jugadores" width="600"/>
+  <img src="Capturas/Grafica1.jpg" alt="Gráfico 1: Resultados blackjack" width="600"/>
   
-  *Figura 1: Distribución de las cartas en las manos de los jugadores.*
+  *Figura 1: Resultados de las diferentes partidas de BlackJack.*
 
-  ![Gráfico 2: Comparación entre manos ganadoras y perdedoras](ruta/a/tu/imagen2.png)  
-  *Figura 2: Comparación entre las manos ganadoras y las perdedoras durante el juego.*
+  <img src="Capturas/Grafica2.jpg" alt="Gráfico 2: Acciones comunes tomadas" width="600"/>
+  *Figura 2: Acciones comunes tomadas por los jugadores.*
 
-  ![Gráfico 3: Análisis de decisiones en manos críticas](ruta/a/tu/imagen3.png)  
-  *Figura 3: Análisis de decisiones tomadas en manos críticas (valor de 16 contra 10 del crupier).*
+  <img src="Capturas/Grafica3.jpg" alt="Gráfico 3: Distribución del valor final del dealer" width="600"/> 
+  *Figura 3: Distribución del valor final de dealer con respecto al resultado.*
 
 - **Conclusiones estratégicas basadas en los datos analizados.**  
   Basado en los análisis anteriores, se han derivado las siguientes conclusiones estratégicas:  
