@@ -53,4 +53,4 @@ El proyecto sigue las fases del modelo **KDD**:
   - El conteo de cartas es una estrategia viable para optimizar las decisiones.
 
 - **Recomendaciones para optimizar las decisiones en el juego.**  
-  Se recomienda a los jugadores ajustar sus estrategias según las cartas del crupier, particularmente en los escenarios mostrados en las gráficas.
+  Se recomienda a los jugadores ajustar sus estrategias según las cartas del crupier, particularmente en los escenarios mostrados en las demás gráficas del proyecto.
