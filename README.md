@@ -27,7 +27,8 @@ El proyecto sigue las fases del modelo **KDD**:
   - knitr  
   - rmarkdown  
 - **Datasets**:  
-  - [Dataset de partidas de Blackjack en Kaggle](https://www.kaggle.com/).
+  - [900.000 Hands of BlackJack Results](https://www.kaggle.com/datasets/mojocolors/900000-hands-of-blackjack-results).
+  - [50 Million Blackjack Hands](https://www.kaggle.com/datasets/dennisho/blackjack-hands).
 
 ## Resultados Esperados  
 - Gráficos y visualizaciones que describan tendencias y patrones.  
