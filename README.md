@@ -5,10 +5,10 @@
 Este proyecto utiliza el modelo **KDD (Knowledge Discovery in Databases)** para analizar datos históricos de partidas de Blackjack. El objetivo es identificar patrones estratégicos en el comportamiento de los jugadores y las cartas repartidas, ayudando a desarrollar estrategias que maximicen las posibilidades de ganar de manera informada y ética.
 
 ## Objetivos  
-- **Comprender el dominio del problema**: Analizar las reglas del Blackjack y las dinámicas del juego en casinos.  
-- **Selección y limpieza de datos**: Trabajar con datasets obtenidos de Kaggle para garantizar que los datos sean confiables.  
-- **Identificación de patrones**: Explorar tendencias en las decisiones de los jugadores y los resultados de las partidas.  
-- **Generación de conocimiento**: Proporcionar insights útiles para mejorar la toma de decisiones en el juego.  
+- Identificar patrones en las decisiones de los jugadores de Blackjack, utilizando técnicas de análisis de datos, para optimizar las estrategias y maximizar las probabilidades de éxito en el juego.
+- Analizar las decisiones de los jugadores (pedir, quedarse, doblar, dividir) en relación con las cartas visibles del dealer.
+- Identificar qué combinaciones de cartas y decisiones estratégicas tienden a generar mejores resultados para los jugadores.  
+- Explorar patrones en los datos que podrían ser explotados para mejorar la estrategia del jugador en futuras partidas.
 
 ## Metodología  
 El proyecto sigue las fases del modelo **KDD**:  
