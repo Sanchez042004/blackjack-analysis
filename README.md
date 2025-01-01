@@ -34,8 +34,8 @@ El proyecto sigue las fases del modelo **KDD**:
 
 - **Gráficos y visualizaciones que describan tendencias y patrones.**  
   A continuación se muestran algunas de las gráficas que ilustran las tendencias y patrones descubiertos durante el análisis del juego de Blackjack.
-
-  ![Gráfico 1: Distribución de cartas en las manos de los jugadores](Capturas/Grafica1.jpg)  
+  
+  <img src="Capturas/Grafica1.jpg" alt="Gráfico 1: Distribución de cartas en las manos de los jugadores" width="600"/>
   *Figura 1: Distribución de las cartas en las manos de los jugadores.*
 
   ![Gráfico 2: Comparación entre manos ganadoras y perdedoras](ruta/a/tu/imagen2.png)  
